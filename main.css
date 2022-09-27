@@ -149,8 +149,8 @@ header h2 {
 }
 
 .thumb {
-    width: 44px;
-    height: 44px;
+    width: 55px;
+    height: 55px;
     background-size: cover;
     background-position: center;
     border-radius: 100%;
@@ -162,7 +162,7 @@ header h2 {
 }
 
 .body .title {
-    font-size: 18px;
+    font-size: 24px;
     color: #333;
     overflow: hidden;
     display: -webkit-box;
@@ -173,7 +173,7 @@ header h2 {
 }
 
 .body .author {
-    font-size: 12px;
+    font-size: 16px;
     color: #999;
 }
 
