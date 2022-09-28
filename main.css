@@ -134,7 +134,7 @@ header h2 {
     background-color: #f3f3f3;
     padding: 12px;
     margin-top: 474px;
-    height: 50vh;
+    height: calc(50vh + 40px);
     overflow-y: scroll;
 }
 
@@ -162,7 +162,7 @@ header h2 {
 }
 
 .body .title {
-    font-size: 24px;
+    font-size: 22px;
     color: #333;
     overflow: hidden;
     display: -webkit-box;
